@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://renovphare.fr/sitemap.xml
